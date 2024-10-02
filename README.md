@@ -10,7 +10,7 @@ SMVDU-LIBRARY is a web application developed using the MERN stack, designed to f
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](babulkr1211@gamil.com)
 
 ## Features
 - **User Authentication**: Secure login and registration for users .
@@ -27,4 +27,4 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/SMVDU-LIBRARY.git
+   git clone https://github.com/babulydv1211/SMVDU-LIBRARY.git
