@@ -38,14 +38,26 @@ Follow these steps to set up the project locally:
    git clone https://github.com/babulydv1211/SMVDU-LIBRARY.git
 
  ## Frontend dependencies
- -cd Frontend 
- -npm install
- -npm run dev
+ 1. **Navigate to the frontend directory**:
+   ```bash
+   cd Frontend
+  Install frontend dependencies:
+    npm install
+  Run the frontend development server:
+  npm run dev
+
 
  ## Backend dependencies
- -cd Backend
- -npm init
- -npm install express
- -npm intsall nodemon
- -npm install mongoose
- -npm run start
+ cd Backend
+## Initialize the backend
+ npm init
+## Install Express:
+ npm install express
+Install Nodemon for automatic server restarts:
+npm install nodemon
+Install Mongoose for MongoDB:
+npm install mongoose
+Run the backend server:
+npm run start
+
+ 
