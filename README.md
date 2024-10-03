@@ -46,12 +46,14 @@ Follow these steps to set up the project locally:
   Run the frontend development server:
   npm run dev
 
+### Backend Dependencies
 
- ## Backend dependencies
- cd Backend
-## Initialize the backend
+2. **Navigate to the backend directory**:
+   ```bash
+   cd Backend
+Initialize the backend
  npm init
-## Install Express:
+ Install Express:
  npm install express
 Install Nodemon for automatic server restarts:
 npm install nodemon
