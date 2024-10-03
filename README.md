@@ -46,7 +46,7 @@ Follow these steps to set up the project locally:
   Run the frontend development server:
   npm run dev
 
-### Backend Dependencies
+## Backend Dependencies
 
 2. **Navigate to the backend directory**:
    ```bash
