@@ -5,6 +5,7 @@ SMVDU-LIBRARY is a web application developed using the MERN stack, designed to f
 
 Here is a screenshot of the project's output:
 ![library](https://github.com/user-attachments/assets/be66eb41-4fa4-4948-8703-0f9129a4dd49)
+
 ![library1](https://github.com/user-attachments/assets/afffc8f6-62e4-4914-bd92-23e81a06b26a)
 
 
